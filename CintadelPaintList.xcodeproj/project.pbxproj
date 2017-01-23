@@ -1,0 +1,512 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1801C06C1C50C27F007043C3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1801C06B1C50C27F007043C3 /* main.m */; };
+		1801C06F1C50C27F007043C3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1801C06E1C50C27F007043C3 /* AppDelegate.m */; };
+		1801C0771C50C280007043C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1801C0761C50C280007043C3 /* Assets.xcassets */; };
+		1801C07A1C50C280007043C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1801C0781C50C280007043C3 /* LaunchScreen.storyboard */; };
+		1816F2651C61CC31003FA537 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1816F2641C61CC31003FA537 /* DetailViewController.m */; };
+		181859121D8E59B800A7562E /* PinyinViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 181859111D8E59B800A7562E /* PinyinViewController.m */; };
+		1818591A1D90D4A600A7562E /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 181859191D90D4A600A7562E /* bg.png */; };
+		1819B5211C59F22B00197F95 /* CitadelPaintList.xml in Resources */ = {isa = PBXBuildFile; fileRef = 1819B5201C59F22B00197F95 /* CitadelPaintList.xml */; };
+		1819B7841C6076C800197F95 /* PaintImg.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1819B7831C6076C700197F95 /* PaintImg.bundle */; };
+		1835B3CC1C56152E00430EBE /* NameTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1835B3CB1C56152E00430EBE /* NameTableViewController.m */; };
+		1835B3CF1C56161900430EBE /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1835B3CE1C56161900430EBE /* MainViewController.m */; };
+		18845DFC1D77FC4500D4D7BC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18845DFB1D77FC4500D4D7BC /* main.m */; };
+		18845DFF1D77FC4600D4D7BC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18845DFE1D77FC4600D4D7BC /* AppDelegate.m */; };
+		18845E021D77FC4600D4D7BC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18845E011D77FC4600D4D7BC /* ViewController.m */; };
+		18845E051D77FC4600D4D7BC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18845E031D77FC4600D4D7BC /* Main.storyboard */; };
+		18845E071D77FC4600D4D7BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18845E061D77FC4600D4D7BC /* Assets.xcassets */; };
+		18845E0A1D77FC4600D4D7BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18845E081D77FC4600D4D7BC /* LaunchScreen.storyboard */; };
+		18845E151D7975C800D4D7BC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18845E131D7975C800D4D7BC /* Main.storyboard */; };
+		18845E181D7E554900D4D7BC /* Left-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 18845E161D7E554900D4D7BC /* Left-100.png */; };
+		18845E191D7E554900D4D7BC /* Right-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 18845E171D7E554900D4D7BC /* Right-100.png */; };
+		18845E201D87A45A00D4D7BC /* Left-104.png in Resources */ = {isa = PBXBuildFile; fileRef = 18845E1E1D87A45A00D4D7BC /* Left-104.png */; };
+		18845E211D87A45A00D4D7BC /* Right-104.png in Resources */ = {isa = PBXBuildFile; fileRef = 18845E1F1D87A45A00D4D7BC /* Right-104.png */; };
+		18845E241D87AE6000D4D7BC /* CommonFunc.m in Sources */ = {isa = PBXBuildFile; fileRef = 18845E231D87AE6000D4D7BC /* CommonFunc.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1801C0671C50C27F007043C3 /* CintadelPaintList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CintadelPaintList.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1801C06B1C50C27F007043C3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1801C06D1C50C27F007043C3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		1801C06E1C50C27F007043C3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		1801C0761C50C280007043C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1801C0791C50C280007043C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1801C07B1C50C280007043C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1816F2631C61CC31003FA537 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		1816F2641C61CC31003FA537 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		181859101D8E59B800A7562E /* PinyinViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PinyinViewController.h; sourceTree = "<group>"; };
+		181859111D8E59B800A7562E /* PinyinViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PinyinViewController.m; sourceTree = "<group>"; };
+		181859191D90D4A600A7562E /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+		1819B5201C59F22B00197F95 /* CitadelPaintList.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = CitadelPaintList.xml; sourceTree = "<group>"; };
+		1819B7831C6076C700197F95 /* PaintImg.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = PaintImg.bundle; sourceTree = "<group>"; };
+		1835B3CA1C56152E00430EBE /* NameTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NameTableViewController.h; sourceTree = "<group>"; };
+		1835B3CB1C56152E00430EBE /* NameTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NameTableViewController.m; sourceTree = "<group>"; };
+		1835B3CD1C56161900430EBE /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		1835B3CE1C56161900430EBE /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		18845DF81D77FC4500D4D7BC /* CintadelPaintList-iPad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CintadelPaintList-iPad.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18845DFB1D77FC4500D4D7BC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18845DFD1D77FC4600D4D7BC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		18845DFE1D77FC4600D4D7BC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		18845E001D77FC4600D4D7BC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		18845E011D77FC4600D4D7BC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		18845E041D77FC4600D4D7BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		18845E061D77FC4600D4D7BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		18845E091D77FC4600D4D7BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		18845E0B1D77FC4600D4D7BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18845E141D7975C800D4D7BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		18845E161D7E554900D4D7BC /* Left-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Left-100.png"; sourceTree = "<group>"; };
+		18845E171D7E554900D4D7BC /* Right-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Right-100.png"; sourceTree = "<group>"; };
+		18845E1E1D87A45A00D4D7BC /* Left-104.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Left-104.png"; sourceTree = "<group>"; };
+		18845E1F1D87A45A00D4D7BC /* Right-104.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Right-104.png"; sourceTree = "<group>"; };
+		18845E221D87AE6000D4D7BC /* CommonFunc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommonFunc.h; sourceTree = "<group>"; };
+		18845E231D87AE6000D4D7BC /* CommonFunc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommonFunc.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1801C0641C50C27F007043C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18845DF51D77FC4500D4D7BC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1801C05E1C50C27F007043C3 = {
+			isa = PBXGroup;
+			children = (
+				1801C0691C50C27F007043C3 /* CintadelPaintList */,
+				18845DF91D77FC4500D4D7BC /* CintadelPaintList-iPad */,
+				1801C0681C50C27F007043C3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1801C0681C50C27F007043C3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1801C0671C50C27F007043C3 /* CintadelPaintList.app */,
+				18845DF81D77FC4500D4D7BC /* CintadelPaintList-iPad.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1801C0691C50C27F007043C3 /* CintadelPaintList */ = {
+			isa = PBXGroup;
+			children = (
+				18845E1A1D7E555B00D4D7BC /* icons */,
+				1819B7831C6076C700197F95 /* PaintImg.bundle */,
+				1819B5201C59F22B00197F95 /* CitadelPaintList.xml */,
+				18845E131D7975C800D4D7BC /* Main.storyboard */,
+				181859101D8E59B800A7562E /* PinyinViewController.h */,
+				181859111D8E59B800A7562E /* PinyinViewController.m */,
+				1801C06D1C50C27F007043C3 /* AppDelegate.h */,
+				1801C06E1C50C27F007043C3 /* AppDelegate.m */,
+				1835B3CD1C56161900430EBE /* MainViewController.h */,
+				1835B3CE1C56161900430EBE /* MainViewController.m */,
+				1835B3CA1C56152E00430EBE /* NameTableViewController.h */,
+				1835B3CB1C56152E00430EBE /* NameTableViewController.m */,
+				1816F2631C61CC31003FA537 /* DetailViewController.h */,
+				1816F2641C61CC31003FA537 /* DetailViewController.m */,
+				1801C0761C50C280007043C3 /* Assets.xcassets */,
+				1801C0781C50C280007043C3 /* LaunchScreen.storyboard */,
+				1801C07B1C50C280007043C3 /* Info.plist */,
+				1801C06A1C50C27F007043C3 /* Supporting Files */,
+				18845E221D87AE6000D4D7BC /* CommonFunc.h */,
+				18845E231D87AE6000D4D7BC /* CommonFunc.m */,
+			);
+			path = CintadelPaintList;
+			sourceTree = "<group>";
+		};
+		1801C06A1C50C27F007043C3 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1801C06B1C50C27F007043C3 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		18845DF91D77FC4500D4D7BC /* CintadelPaintList-iPad */ = {
+			isa = PBXGroup;
+			children = (
+				18845DFD1D77FC4600D4D7BC /* AppDelegate.h */,
+				18845DFE1D77FC4600D4D7BC /* AppDelegate.m */,
+				18845E001D77FC4600D4D7BC /* ViewController.h */,
+				18845E011D77FC4600D4D7BC /* ViewController.m */,
+				18845E031D77FC4600D4D7BC /* Main.storyboard */,
+				18845E061D77FC4600D4D7BC /* Assets.xcassets */,
+				18845E081D77FC4600D4D7BC /* LaunchScreen.storyboard */,
+				18845E0B1D77FC4600D4D7BC /* Info.plist */,
+				18845DFA1D77FC4500D4D7BC /* Supporting Files */,
+			);
+			path = "CintadelPaintList-iPad";
+			sourceTree = "<group>";
+		};
+		18845DFA1D77FC4500D4D7BC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				18845DFB1D77FC4500D4D7BC /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		18845E1A1D7E555B00D4D7BC /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				181859191D90D4A600A7562E /* bg.png */,
+				18845E1E1D87A45A00D4D7BC /* Left-104.png */,
+				18845E1F1D87A45A00D4D7BC /* Right-104.png */,
+				18845E161D7E554900D4D7BC /* Left-100.png */,
+				18845E171D7E554900D4D7BC /* Right-100.png */,
+			);
+			name = icons;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1801C0661C50C27F007043C3 /* CintadelPaintList */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1801C07E1C50C280007043C3 /* Build configuration list for PBXNativeTarget "CintadelPaintList" */;
+			buildPhases = (
+				1801C0631C50C27F007043C3 /* Sources */,
+				1801C0641C50C27F007043C3 /* Frameworks */,
+				1801C0651C50C27F007043C3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CintadelPaintList;
+			productName = CintadelPaintList;
+			productReference = 1801C0671C50C27F007043C3 /* CintadelPaintList.app */;
+			productType = "com.apple.product-type.application";
+		};
+		18845DF71D77FC4500D4D7BC /* CintadelPaintList-iPad */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18845E0C1D77FC4600D4D7BC /* Build configuration list for PBXNativeTarget "CintadelPaintList-iPad" */;
+			buildPhases = (
+				18845DF41D77FC4500D4D7BC /* Sources */,
+				18845DF51D77FC4500D4D7BC /* Frameworks */,
+				18845DF61D77FC4500D4D7BC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "CintadelPaintList-iPad";
+			productName = "CintadelPaintList-iPad";
+			productReference = 18845DF81D77FC4500D4D7BC /* CintadelPaintList-iPad.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1801C05F1C50C27F007043C3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = Vingleo;
+				TargetAttributes = {
+					1801C0661C50C27F007043C3 = {
+						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = EX2PTDBQWG;
+					};
+					18845DF71D77FC4500D4D7BC = {
+						CreatedOnToolsVersion = 7.1;
+					};
+				};
+			};
+			buildConfigurationList = 1801C0621C50C27F007043C3 /* Build configuration list for PBXProject "CintadelPaintList" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1801C05E1C50C27F007043C3;
+			productRefGroup = 1801C0681C50C27F007043C3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1801C0661C50C27F007043C3 /* CintadelPaintList */,
+				18845DF71D77FC4500D4D7BC /* CintadelPaintList-iPad */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1801C0651C50C27F007043C3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1818591A1D90D4A600A7562E /* bg.png in Resources */,
+				18845E181D7E554900D4D7BC /* Left-100.png in Resources */,
+				18845E151D7975C800D4D7BC /* Main.storyboard in Resources */,
+				1801C07A1C50C280007043C3 /* LaunchScreen.storyboard in Resources */,
+				18845E211D87A45A00D4D7BC /* Right-104.png in Resources */,
+				1801C0771C50C280007043C3 /* Assets.xcassets in Resources */,
+				18845E201D87A45A00D4D7BC /* Left-104.png in Resources */,
+				18845E191D7E554900D4D7BC /* Right-100.png in Resources */,
+				1819B5211C59F22B00197F95 /* CitadelPaintList.xml in Resources */,
+				1819B7841C6076C800197F95 /* PaintImg.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18845DF61D77FC4500D4D7BC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18845E0A1D77FC4600D4D7BC /* LaunchScreen.storyboard in Resources */,
+				18845E071D77FC4600D4D7BC /* Assets.xcassets in Resources */,
+				18845E051D77FC4600D4D7BC /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1801C0631C50C27F007043C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18845E241D87AE6000D4D7BC /* CommonFunc.m in Sources */,
+				1816F2651C61CC31003FA537 /* DetailViewController.m in Sources */,
+				1801C06F1C50C27F007043C3 /* AppDelegate.m in Sources */,
+				181859121D8E59B800A7562E /* PinyinViewController.m in Sources */,
+				1835B3CC1C56152E00430EBE /* NameTableViewController.m in Sources */,
+				1801C06C1C50C27F007043C3 /* main.m in Sources */,
+				1835B3CF1C56161900430EBE /* MainViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18845DF41D77FC4500D4D7BC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18845E021D77FC4600D4D7BC /* ViewController.m in Sources */,
+				18845DFF1D77FC4600D4D7BC /* AppDelegate.m in Sources */,
+				18845DFC1D77FC4500D4D7BC /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1801C0781C50C280007043C3 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1801C0791C50C280007043C3 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		18845E031D77FC4600D4D7BC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				18845E041D77FC4600D4D7BC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		18845E081D77FC4600D4D7BC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				18845E091D77FC4600D4D7BC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		18845E131D7975C800D4D7BC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				18845E141D7975C800D4D7BC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1801C07C1C50C280007043C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1801C07D1C50C280007043C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1801C07F1C50C280007043C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = EX2PTDBQWG;
+				INFOPLIST_FILE = CintadelPaintList/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Vingleo.CintadelPaintList;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		1801C0801C50C280007043C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = EX2PTDBQWG;
+				INFOPLIST_FILE = CintadelPaintList/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Vingleo.CintadelPaintList;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18845E0D1D77FC4600D4D7BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "CintadelPaintList-iPad/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Vingleo.CintadelPaintList-iPad";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		18845E0E1D77FC4600D4D7BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "CintadelPaintList-iPad/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Vingleo.CintadelPaintList-iPad";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1801C0621C50C27F007043C3 /* Build configuration list for PBXProject "CintadelPaintList" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1801C07C1C50C280007043C3 /* Debug */,
+				1801C07D1C50C280007043C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1801C07E1C50C280007043C3 /* Build configuration list for PBXNativeTarget "CintadelPaintList" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1801C07F1C50C280007043C3 /* Debug */,
+				1801C0801C50C280007043C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18845E0C1D77FC4600D4D7BC /* Build configuration list for PBXNativeTarget "CintadelPaintList-iPad" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18845E0D1D77FC4600D4D7BC /* Debug */,
+				18845E0E1D77FC4600D4D7BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1801C05F1C50C27F007043C3 /* Project object */;
+}

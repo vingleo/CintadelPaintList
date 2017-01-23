@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base Set</CategoryNew>
+		<IncludeSetName>Citadel Base Paint Set</IncludeSetName>
+		<ImageNameCn>Abaddon Black 地狱领主黑.jpg</ImageNameCn>
+		<ImageFullPath>Base Set/AbaddonBlack地狱领主黑.jpg</ImageFullPath>
+		<ImageName>AbaddonBlack.jpg</ImageName>
+		<NameEn>Abaddon Black</NameEn>
+		<NameZh>地狱领主黑</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base Set</CategoryNew>
+		<IncludeSetName>Citadel Base Paint Set</IncludeSetName>
+		<ImageNameCn>Averland Sunset 俄芙兰夕阳黄.jpg</ImageNameCn>
+		<ImageFullPath>Base Set/Averland Sunset 俄芙兰夕阳黄.jpg</ImageFullPath>
+		<ImageName>AverlandSunset.jpg</ImageName>
+		<NameEn>Averland Sunset</NameEn>
+		<NameZh>俄芙兰夕阳黄</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base Set</CategoryNew>
+		<IncludeSetName>Citadel Base Paint Set</IncludeSetName>
+		<ImageNameCn>Balthasar Gold 拜萨砂亮金.jpg</ImageNameCn>
+		<ImageFullPath>Base Set/Balthasar Gold 拜萨砂亮金.jpg</ImageFullPath>
+		<ImageName>BalthasarGold.jpg</ImageName>
+		<NameEn>Balthasar Gold</NameEn>
+		<NameZh>拜萨砂亮金</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base Set</CategoryNew>
+		<IncludeSetName>Citadel Base Paint Set</IncludeSetName>
+		<ImageNameCn>Bugman's Glow 伯格曼褐.jpg</ImageNameCn>
+		<ImageFullPath>/Base Set/Bugman's Glow 伯格曼褐.jpg</ImageFullPath>
+		<ImageName>Bugman'sGlow.jpg</ImageName>
+		<NameEn>Bugman's Glow</NameEn>
+		<NameZh>伯格曼褐</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base Set</CategoryNew>
+		<IncludeSetName>Citadel Base Paint Set</IncludeSetName>
+		<ImageNameCn>Ceramite White 陶瓷白.jpg</ImageNameCn>
+		<ImageFullPath>/Base Set/Ceramite White 陶瓷白.jpg</ImageFullPath>
+		<ImageName>CeramiteWhite.jpg</ImageName>
+		<NameEn>Ceramite White</NameEn>
+		<NameZh>陶瓷白</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base Set</CategoryNew>
+		<IncludeSetName>Citadel Base Paint Set</IncludeSetName>
+		<ImageNameCn>Leadbelcher 铅银.jpg</ImageNameCn>
+		<ImageFullPath>/Base Set/Leadbelcher 铅银.jpg</ImageFullPath>
+		<ImageName>Leadbelcher.jpg</ImageName>
+		<NameEn>Leadbelcher</NameEn>
+		<NameZh>铅银</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base Set</CategoryNew>
+		<IncludeSetName>Citadel Base Paint Set</IncludeSetName>
+		<ImageNameCn>Macragge Blue 马克拉格蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Base Set/Macragge Blue 马克拉格蓝.jpg</ImageFullPath>
+		<ImageName>MacraggeBlue.jpg</ImageName>
+		<NameEn>Macragge Blue</NameEn>
+		<NameZh>马克拉格蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base Set</CategoryNew>
+		<IncludeSetName>Citadel Base Paint Set</IncludeSetName>
+		<ImageNameCn>Mephiston Red 莫菲斯顿红.jpg</ImageNameCn>
+		<ImageFullPath>/Base Set/Mephiston Red 莫菲斯顿红.jpg</ImageFullPath>
+		<ImageName>MephistonRed.jpg</ImageName>
+		<NameEn>Mephiston Red</NameEn>
+		<NameZh>莫菲斯顿红</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base Set</CategoryNew>
+		<IncludeSetName>Citadel Base Paint Set</IncludeSetName>
+		<ImageNameCn>Mournfang Brown 悲鸣剑齿虎棕.jpg</ImageNameCn>
+		<ImageFullPath>/Base Set/Mournfang Brown 悲鸣剑齿虎棕.jpg</ImageFullPath>
+		<ImageName>MournfangBrown.jpg</ImageName>
+		<NameEn>Mournfang Brown</NameEn>
+		<NameZh>悲鸣剑齿虎棕</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base Set</CategoryNew>
+		<IncludeSetName>Citadel Base Paint Set</IncludeSetName>
+		<ImageNameCn>Waaagh! Flesh 兽人肌肉绿.jpg</ImageNameCn>
+		<ImageFullPath>/Base Set/Waaagh! Flesh 兽人肌肉绿.jpg</ImageFullPath>
+		<ImageName>Waaagh!Flesh.jpg</ImageName>
+		<NameEn>Waaagh! Flesh</NameEn>
+		<NameZh>兽人肌肉绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base Set</CategoryNew>
+		<IncludeSetName>Citadel Base Paint Set</IncludeSetName>
+		<ImageNameCn>Zandri Dust 桑德利沙尘黄.jpg</ImageNameCn>
+		<ImageFullPath>/Base Set/Zandri Dust 桑德利沙尘黄.jpg</ImageFullPath>
+		<ImageName>ZandriDust.jpg</ImageName>
+		<NameEn>Zandri Dust</NameEn>
+		<NameZh>桑德利沙尘黄</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Caledor Sky 凯勒多天空蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Caledor Sky 凯勒多天空蓝.jpg</ImageFullPath>
+		<ImageName>CaledorSky.jpg</ImageName>
+		<NameEn>Caledor Sky </NameEn>
+		<NameZh>凯勒多天空蓝 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Caliban Green 暗黑天使绿.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Caliban Green 暗黑天使绿.jpg</ImageFullPath>
+		<ImageName>CalibanGreen.jpg</ImageName>
+		<NameEn>Caliban Green </NameEn>
+		<NameZh>暗黑天使绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Castellan Green 城寨绿.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Castellan Green 城寨绿.jpg</ImageFullPath>
+		<ImageName>CastellanGreen.jpg</ImageName>
+		<NameEn>Castellan Green </NameEn>
+		<NameZh>城寨绿 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Daemonette Hide 魅魔肤.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Daemonette Hide 魅魔肤.jpg</ImageFullPath>
+		<ImageName>DaemonetteHide.jpg</ImageName>
+		<NameEn>Daemonette Hide </NameEn>
+		<NameZh>魅魔肤</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Death World Forest 死亡世界森林绿.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Death World Forest 死亡世界森林绿.jpg</ImageFullPath>
+		<ImageName>DeathWorldForest.jpg</ImageName>
+		<NameEn>Death World Forest </NameEn>
+		<NameZh>死亡世界森林绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Dryad Bark 树精皮褐.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Dryad Bark 树精皮褐.jpg</ImageFullPath>
+		<ImageName>DryadBark.jpg</ImageName>
+		<NameEn>Dryad Bark </NameEn>
+		<NameZh>树精皮褐 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Incubi Darkness 梦魇黑.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Incubi Darkness 梦魇黑.jpg</ImageFullPath>
+		<ImageName>IncubiDarkness.jpg</ImageName>
+		<NameEn>Incubi Darkness </NameEn>
+		<NameZh>梦魇黑</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Jokaero Orange 尤卡艾罗橘.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Jokaero Orange 尤卡艾罗橘.jpg</ImageFullPath>
+		<ImageName>JokaeroOrange.jpg</ImageName>
+		<NameEn>Jokaero Orange </NameEn>
+		<NameZh>尤卡艾罗橘 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Kantor Blue 坎托蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Kantor Blue 坎托蓝.jpg</ImageFullPath>
+		<ImageName>KantorBlue.jpg</ImageName>
+		<NameEn>Kantor Blue </NameEn>
+		<NameZh>坎托蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Khorne Red 哥达红.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Khorne Red 哥达红.jpg</ImageFullPath>
+		<ImageName>KhorneRed.jpg</ImageName>
+		<NameEn>Khorne Red </NameEn>
+		<NameZh>哥达红</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Mechanicus Standard Grey 机械神教标准灰.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Mechanicus Standard Grey 机械神教标准灰.jpg</ImageFullPath>
+		<ImageName>MechanicusStandardGrey.jpg</ImageName>
+		<NameEn>Mechanicus Standard Grey </NameEn>
+		<NameZh>机械神教标准灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Naggaroth Night 纳加罗夫深夜蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Naggaroth Night 纳加罗夫深夜蓝.jpg</ImageFullPath>
+		<ImageName>NaggarothNight.jpg</ImageName>
+		<NameEn>Naggaroth Night </NameEn>
+		<NameZh>纳加罗夫深夜蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Rakarth Flesh 拉卡斯肤.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Rakarth Flesh 拉卡斯肤.jpg</ImageFullPath>
+		<ImageName>RakarthFlesh.jpg</ImageName>
+		<NameEn>Rakarth Flesh </NameEn>
+		<NameZh>拉卡斯肤</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Ratskin Flesh 魔鼠肤.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Ratskin Flesh 魔鼠肤.jpg</ImageFullPath>
+		<ImageName>RatskinFlesh.jpg</ImageName>
+		<NameEn>Ratskin Flesh </NameEn>
+		<NameZh>魔鼠肤 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Rhinox Hide 犀牛皮褐.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Rhinox Hide 犀牛皮褐.jpg</ImageFullPath>
+		<ImageName>RhinoxHide.jpg</ImageName>
+		<NameEn>Rhinox Hide </NameEn>
+		<NameZh>犀牛皮褐 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Screamer Pink 尖啸粉红.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Screamer Pink 尖啸粉红.jpg</ImageFullPath>
+		<ImageName>ScreamerPink.jpg</ImageName>
+		<NameEn>Screamer Pink </NameEn>
+		<NameZh>尖啸粉红</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Screaming Bell 毁灭巨钟铜.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Screaming Bell 毁灭巨钟铜.jpg</ImageFullPath>
+		<ImageName>ScreamingBell.jpg</ImageName>
+		<NameEn>Screaming Bell </NameEn>
+		<NameZh>毁灭巨钟铜</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Steel Legion Drab 钢铁军团褐.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Steel Legion Drab 钢铁军团褐.jpg</ImageFullPath>
+		<ImageName>SteelLegionDrab.jpg</ImageName>
+		<NameEn>Steel Legion Drab </NameEn>
+		<NameZh>钢铁军团褐 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Stegadon Scale Green 三角龙鳞片绿.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Stegadon Scale Green 三角龙鳞片绿.jpg</ImageFullPath>
+		<ImageName>StegadonScaleGreen.jpg</ImageName>
+		<NameEn>Stegadon Scale Green </NameEn>
+		<NameZh>三角龙鳞片绿 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>The Fang 兽牙青.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/The Fang 兽牙青.jpg</ImageFullPath>
+		<ImageName>TheFang.jpg</ImageName>
+		<NameEn>The Fang </NameEn>
+		<NameZh>兽牙青</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Warplock Bronze 魔石术士青铜.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/Warplock Bronze 魔石术士青铜.jpg</ImageFullPath>
+		<ImageName>WarplockBronze.jpg</ImageName>
+		<NameEn>Warplock Bronze </NameEn>
+		<NameZh>魔石术士青铜 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Base </Category>
+		<CategoryNew>Base others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>XV-88 仿金.jpg</ImageNameCn>
+		<ImageFullPath>/Base others/XV-88 仿金.jpg</ImageFullPath>
+		<ImageName>XV-88.jpg</ImageName>
+		<NameEn>XV-88</NameEn>
+		<NameZh>仿金</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Shade</Category>
+		<CategoryNew>Shade Set</CategoryNew>
+		<IncludeSetName>Shade Paint set</IncludeSetName>
+		<ImageNameCn>Agrax Earthshade 亚格瑞斯大地.jpg</ImageNameCn>
+		<ImageFullPath>/Shade Set/Agrax Earthshade 亚格瑞斯大地.jpg</ImageFullPath>
+		<ImageName>AgraxEarthshade.jpg</ImageName>
+		<NameEn>Agrax Earthshade </NameEn>
+		<NameZh>亚格瑞斯大地</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Shade</Category>
+		<CategoryNew>Shade Set</CategoryNew>
+		<IncludeSetName>Shade Paint set</IncludeSetName>
+		<ImageNameCn>Biel- tan Green 贝耶坦绿.jpg</ImageNameCn>
+		<ImageFullPath>/Shade Set/Biel- tan Green 贝耶坦绿.jpg</ImageFullPath>
+		<ImageName>Biel-tanGreen.jpg</ImageName>
+		<NameEn>Biel- tan Green </NameEn>
+		<NameZh>贝耶坦绿 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Shade</Category>
+		<CategoryNew>Shade Set</CategoryNew>
+		<IncludeSetName>Shade Paint set</IncludeSetName>
+		<ImageNameCn>Carroburg Crimson 卡罗堡深红.jpg</ImageNameCn>
+		<ImageFullPath>/Shade Set/Carroburg Crimson 卡罗堡深红.jpg</ImageFullPath>
+		<ImageName>CarroburgCrimson.jpg</ImageName>
+		<NameEn>Carroburg Crimson </NameEn>
+		<NameZh>卡罗堡深红</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Shade</Category>
+		<CategoryNew>Shade Set</CategoryNew>
+		<IncludeSetName>Shade Paint set</IncludeSetName>
+		<ImageNameCn>Casandora Yellow 卡珊朵拉黄.jpg</ImageNameCn>
+		<ImageFullPath>/Shade Set/Casandora Yellow 卡珊朵拉黄.jpg</ImageFullPath>
+		<ImageName>CasandoraYellow.jpg</ImageName>
+		<NameEn>Casandora Yellow </NameEn>
+		<NameZh>卡珊朵拉黄</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Shade</Category>
+		<CategoryNew>Shade Set</CategoryNew>
+		<IncludeSetName>Shade Paint set</IncludeSetName>
+		<ImageNameCn>Drakenhof Nightshade 雏龙城夜黑.jpg</ImageNameCn>
+		<ImageFullPath>/Shade Set/Drakenhof Nightshade 雏龙城夜黑.jpg</ImageFullPath>
+		<ImageName>DrakenhofNightshade.jpg</ImageName>
+		<NameEn>Drakenhof Nightshade </NameEn>
+		<NameZh>雏龙城夜黑</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Shade</Category>
+		<CategoryNew>Shade Set</CategoryNew>
+		<IncludeSetName>Shade Paint set</IncludeSetName>
+		<ImageNameCn>Nuln Oil 努恩油黑.jpg</ImageNameCn>
+		<ImageFullPath>/Shade Set/Nuln Oil 努恩油黑.jpg</ImageFullPath>
+		<ImageName>NulnOil.jpg</ImageName>
+		<NameEn>Nuln Oil </NameEn>
+		<NameZh>努恩油黑</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Shade</Category>
+		<CategoryNew>Shade Set</CategoryNew>
+		<IncludeSetName>Shade Paint set</IncludeSetName>
+		<ImageNameCn>Reikland Fleshshade 瑞克兰肤.jpg</ImageNameCn>
+		<ImageFullPath>/Shade Set/Reikland Fleshshade 瑞克兰肤.jpg</ImageFullPath>
+		<ImageName>ReiklandFleshshade.jpg</ImageName>
+		<NameEn>Reikland Fleshshade </NameEn>
+		<NameZh>瑞克兰肤</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Shade</Category>
+		<CategoryNew>Shade Set</CategoryNew>
+		<IncludeSetName>Shade Paint set</IncludeSetName>
+		<ImageNameCn>Seraphim Sepia 炽天使棕.jpg</ImageNameCn>
+		<ImageFullPath>/Shade Set/Seraphim Sepia 炽天使棕.jpg</ImageFullPath>
+		<ImageName>SeraphimSepia.jpg</ImageName>
+		<NameEn>Seraphim Sepia </NameEn>
+		<NameZh>炽天使棕</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Shade</Category>
+		<CategoryNew>Shade others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Athonian Camoshade 阿隆尼安迷彩.jpg</ImageNameCn>
+		<ImageFullPath>/Shade others/Athonian Camoshade 阿隆尼安迷彩.jpg</ImageFullPath>
+		<ImageName>AthonianCamoshade.jpg</ImageName>
+		<NameEn>Athonian Camoshade </NameEn>
+		<NameZh>阿隆尼安迷彩 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Shade</Category>
+		<CategoryNew>Shade others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Coelia Greenshade 柯力亚绿.jpg</ImageNameCn>
+		<ImageFullPath>/Shade others/Coelia Greenshade 柯力亚绿.jpg</ImageFullPath>
+		<ImageName>CoeliaGreenshade.jpg</ImageName>
+		<NameEn>Coelia Greenshade </NameEn>
+		<NameZh>柯力亚绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Shade</Category>
+		<CategoryNew>Shade others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Fuegan Orange 火龙领主橘.jpg</ImageNameCn>
+		<ImageFullPath>/Shade others/Fuegan Orange 火龙领主橘.jpg</ImageFullPath>
+		<ImageName>FueganOrange.jpg</ImageName>
+		<NameEn>Fuegan Orange </NameEn>
+		<NameZh>火龙领主橘 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry Set</CategoryNew>
+		<IncludeSetName>Citadel Dry Paint Set</IncludeSetName>
+		<ImageNameCn>Eldar Flesh 神灵族肤.jpg</ImageNameCn>
+		<ImageFullPath>/Dry Set/Eldar Flesh 神灵族肤.jpg</ImageFullPath>
+		<ImageName>EldarFlesh.jpg</ImageName>
+		<NameEn>Eldar Flesh</NameEn>
+		<NameZh>神灵族肤</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry Set</CategoryNew>
+		<IncludeSetName>Citadel Dry Paint Set</IncludeSetName>
+		<ImageNameCn>Etherium Blue 乙太蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Dry Set/Etherium Blue 乙太蓝.jpg</ImageFullPath>
+		<ImageName>EtheriumBlue.jpg</ImageName>
+		<NameEn>Etherium Blue</NameEn>
+		<NameZh>乙太蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry Set</CategoryNew>
+		<IncludeSetName>Citadel Dry Paint Set</IncludeSetName>
+		<ImageNameCn>Golden Griffon 狮鹫金.jpg</ImageNameCn>
+		<ImageFullPath>/Dry Set/Golden Griffon 狮鹫金.jpg</ImageFullPath>
+		<ImageName>GoldenGriffon.jpg</ImageName>
+		<NameEn>Golden Griffon</NameEn>
+		<NameZh>狮鹫金</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry Set</CategoryNew>
+		<IncludeSetName>Citadel Dry Paint Set</IncludeSetName>
+		<ImageNameCn>Hexos Palesun 微光黄.jpg</ImageNameCn>
+		<ImageFullPath>/Dry Set/Hexos Palesun 微光黄.jpg</ImageFullPath>
+		<ImageName>HexosPalesun.jpg</ImageName>
+		<NameEn>Hexos Palesun</NameEn>
+		<NameZh>微光黄</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry Set</CategoryNew>
+		<IncludeSetName>Citadel Dry Paint Set</IncludeSetName>
+		<ImageNameCn>Kindleflame 点燃红.jpg</ImageNameCn>
+		<ImageFullPath>/Dry Set/Kindleflame 点燃红.jpg</ImageFullPath>
+		<ImageName>Kindleflame.jpg</ImageName>
+		<NameEn>Kindleflame</NameEn>
+		<NameZh>点燃红</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry Set</CategoryNew>
+		<IncludeSetName>Citadel Dry Paint Set</IncludeSetName>
+		<ImageNameCn>Longbeard Grey 长须灰.jpg</ImageNameCn>
+		<ImageFullPath>/Dry Set/Longbeard Grey 长须灰.jpg</ImageFullPath>
+		<ImageName>LongbeardGrey.jpg</ImageName>
+		<NameEn>Longbeard Grey</NameEn>
+		<NameZh>长须灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry Set</CategoryNew>
+		<IncludeSetName>Citadel Dry Paint Set</IncludeSetName>
+		<ImageNameCn>Necron Compound 机械死灵混合银.jpg</ImageNameCn>
+		<ImageFullPath>/Dry Set/Necron Compound 机械死灵混合银.jpg</ImageFullPath>
+		<ImageName>NecronCompound.jpg</ImageName>
+		<NameEn>Necron Compound</NameEn>
+		<NameZh>机械死灵混合银</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry Set</CategoryNew>
+		<IncludeSetName>Citadel Dry Paint Set</IncludeSetName>
+		<ImageNameCn>Praxeti White 派克希提白.jpg</ImageNameCn>
+		<ImageFullPath>/Dry Set/Praxeti White 派克希提白.jpg</ImageFullPath>
+		<ImageName>PraxetiWhite.jpg</ImageName>
+		<NameEn>Praxeti White</NameEn>
+		<NameZh>派克希提白</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry Set</CategoryNew>
+		<IncludeSetName>Citadel Dry Paint Set</IncludeSetName>
+		<ImageNameCn>Tyrant Skull 虫族骨白.jpg</ImageNameCn>
+		<ImageFullPath>/Dry Set/Tyrant Skull 虫族骨白.jpg</ImageFullPath>
+		<ImageName>TyrantSkull.jpg</ImageName>
+		<NameEn>Tyrant Skull</NameEn>
+		<NameZh>虫族骨白</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry Set</CategoryNew>
+		<IncludeSetName>Citadel Dry Paint Set</IncludeSetName>
+		<ImageNameCn>Underhive Ash 地底蜂巢都市浅灰.jpg</ImageNameCn>
+		<ImageFullPath>/Dry Set/Underhive Ash 地底蜂巢都市浅灰.jpg</ImageFullPath>
+		<ImageName>UnderhiveAsh.jpg</ImageName>
+		<NameEn>Underhive Ash </NameEn>
+		<NameZh>地底蜂巢都市浅灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Changeling Pink 幻形魔粉红 .jpg</ImageNameCn>
+		<ImageFullPath>/Dry others/Changeling Pink 幻形魔粉红 .jpg</ImageFullPath>
+		<ImageName>ChangelingPink.jpg</ImageName>
+		<NameEn>Changeling Pink </NameEn>
+		<NameZh>幻形魔粉红 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Hellion Green 恶贼绿.jpg</ImageNameCn>
+		<ImageFullPath>/Dry others/Hellion Green 恶贼绿.jpg</ImageFullPath>
+		<ImageName>HellionGreen.jpg</ImageName>
+		<NameEn>Hellion Green </NameEn>
+		<NameZh>恶贼绿 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Hexos Palesun 微光黄.jpg</ImageNameCn>
+		<ImageFullPath>/Dry others/Hexos Palesun 微光黄.jpg</ImageFullPath>
+		<ImageName>HexosPalesun.jpg</ImageName>
+		<NameEn>Hexos Palesun </NameEn>
+		<NameZh>微光黄 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Lucius Lilac 鲁希尔斯淡紫.jpg</ImageNameCn>
+		<ImageFullPath>/Dry others/Lucius Lilac 鲁希尔斯淡紫.jpg</ImageFullPath>
+		<ImageName>LuciusLilac.jpg</ImageName>
+		<NameEn>Lucius Lilac </NameEn>
+		<NameZh>鲁希尔斯淡紫</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Ryza Rust.jpg</ImageNameCn>
+		<ImageFullPath>/Dry others/Ryza Rust.jpg</ImageFullPath>
+		<ImageName>RyzaRust.jpg</ImageName>
+		<NameEn>Ryza Rust</NameEn>
+		<NameZh>莱扎褐</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Skink Blue 史坚斯蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Dry others/Skink Blue 史坚斯蓝.jpg</ImageFullPath>
+		<ImageName>SkinkBlue.jpg</ImageName>
+		<NameEn>Skink Blue</NameEn>
+		<NameZh>史坚斯蓝 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Dry</Category>
+		<CategoryNew>Dry others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Terminatus Stone 终结白.jpg</ImageNameCn>
+		<ImageFullPath>/Dry others/Terminatus Stone 终结白.jpg</ImageFullPath>
+		<ImageName>TerminatusStone.jpg</ImageName>
+		<NameEn>Terminatus Stone </NameEn>
+		<NameZh>终结白</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Altdorf Guard Blue 阿尔道夫护卫蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Altdorf Guard Blue 阿尔道夫护卫蓝.jpg</ImageFullPath>
+		<ImageName>AltdorfGuardBlue.jpg</ImageName>
+		<NameEn>Altdorf Guard Blue </NameEn>
+		<NameZh>阿尔道夫护卫蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Auric Armour Gold 奥瑞克盔甲金.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Auric Armour Gold 奥瑞克盔甲金.jpg</ImageFullPath>
+		<ImageName>AuricArmourGold.jpg</ImageName>
+		<NameEn>Auric Armour Gold</NameEn>
+		<NameZh>奥瑞克盔甲金</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Cadian Fleshtone 卡帝安肤.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Cadian Fleshtone 卡帝安肤.jpg</ImageFullPath>
+		<ImageName>CadianFleshtone.jpg</ImageName>
+		<NameEn>Cadian Fleshtone</NameEn>
+		<NameZh>卡帝安肤</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Calgar Blue 蔻卡尔蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Calgar Blue 蔻卡尔蓝.jpg</ImageFullPath>
+		<ImageName>CalgarBlue.jpg</ImageName>
+		<NameEn>Calgar Blue</NameEn>
+		<NameZh>蔻卡尔蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Dawnstone 黎明石灰.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Dawnstone 黎明石灰.jpg</ImageFullPath>
+		<ImageName>Dawnstone.jpg</ImageName>
+		<NameEn>Dawnstone</NameEn>
+		<NameZh>黎明石灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Deathclaw Brown 死亡之爪棕.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Deathclaw Brown 死亡之爪棕.jpg</ImageFullPath>
+		<ImageName>DeathclawBrown.jpg</ImageName>
+		<NameEn>Deathclaw Brown</NameEn>
+		<NameZh>死亡之爪棕</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Eshin Grey 艾辛灰.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Eshin Grey 艾辛灰.jpg</ImageFullPath>
+		<ImageName>EshinGrey.jpg</ImageName>
+		<NameEn>Eshin Grey </NameEn>
+		<NameZh>艾辛灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Evil Sunz Scarlet 恶阳鲜红.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Evil Sunz Scarlet 恶阳鲜红.jpg</ImageFullPath>
+		<ImageName>EvilSunzScarlet.jpg</ImageName>
+		<NameEn>Evil Sunz Scarlet</NameEn>
+		<NameZh>恶阳鲜红</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Flash Gitz Yellow 冲锋炮小子黄.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Flash Gitz Yellow 冲锋炮小子黄.jpg</ImageFullPath>
+		<ImageName>FlashGitzYellow.jpg</ImageName>
+		<NameEn>Flash Gitz Yellow</NameEn>
+		<NameZh>冲锋炮小子黄</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Gehenna's Gold 盖汉那金.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Gehenna's Gold 盖汉那金.jpg</ImageFullPath>
+		<ImageName>Gehenna'sGold.jpg</ImageName>
+		<NameEn>Gehenna's Gold</NameEn>
+		<NameZh>盖汉那金</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Ironbreaker 碎铁银.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Ironbreaker 碎铁银.jpg</ImageFullPath>
+		<ImageName>Ironbreaker.jpg</ImageName>
+		<NameEn>Ironbreaker</NameEn>
+		<NameZh>碎铁银</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Kislev flesh 京士利肤.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Kislev flesh 京士利肤.jpg</ImageFullPath>
+		<ImageName>Kislevflesh.jpg</ImageName>
+		<NameEn>Kislev flesh</NameEn>
+		<NameZh>京士利肤</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Runefang Steel 符文尖刀铁.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Runefang Steel 符文尖刀铁.jpg</ImageFullPath>
+		<ImageName>RunefangSteel.jpg</ImageName>
+		<NameEn>Runefang Steel</NameEn>
+		<NameZh>符文尖刀铁</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Screaming Skull 尖啸头颅白.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Screaming Skull 尖啸头颅白.jpg</ImageFullPath>
+		<ImageName>ScreamingSkull.jpg</ImageName>
+		<NameEn>Screaming Skull </NameEn>
+		<NameZh>尖啸头颅白</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Skarsnik Green 史卡斯尼克绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Skarsnik Green 史卡斯尼克绿.jpg</ImageFullPath>
+		<ImageName>SkarsnikGreen.jpg</ImageName>
+		<NameEn>Skarsnik Green</NameEn>
+		<NameZh>史卡斯尼克绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>SKrag Brown 史克拉格棕.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/SKrag Brown 史克拉格棕.jpg</ImageFullPath>
+		<ImageName>SKragBrown.jpg</ImageName>
+		<NameEn>SKrag Brown</NameEn>
+		<NameZh>史克拉格棕</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Ushabti Bone 乌沙比骨白.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Ushabti Bone 乌沙比骨白.jpg</ImageFullPath>
+		<ImageName>UshabtiBone.jpg</ImageName>
+		<NameEn>Ushabti Bone</NameEn>
+		<NameZh>乌沙比骨白</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Warboss Green 战争首领绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Warboss Green 战争首领绿.jpg</ImageFullPath>
+		<ImageName>WarbossGreen.jpg</ImageName>
+		<NameEn>Warboss Green</NameEn>
+		<NameZh>战争首领绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Wild Rider Red 荒野骑兵红.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Wild Rider Red 荒野骑兵红.jpg</ImageFullPath>
+		<ImageName>WildRiderRed.jpg</ImageName>
+		<NameEn>Wild Rider Red</NameEn>
+		<NameZh>荒野骑兵红</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer Set</CategoryNew>
+		<IncludeSetName>Citadel Layer Paint Set</IncludeSetName>
+		<ImageNameCn>Yriel Yellow 伊利尔黄.jpg</ImageNameCn>
+		<ImageFullPath>/Layer Set/Yriel Yellow 伊利尔黄.jpg</ImageFullPath>
+		<ImageName>YrielYellow.jpg</ImageName>
+		<NameEn>Yriel Yellow</NameEn>
+		<NameZh>伊利尔黄</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Administratum Grey 中央政务院灰.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Administratum Grey 中央政务院灰.jpg</ImageFullPath>
+		<ImageName>AdministratumGrey.jpg</ImageName>
+		<NameEn>Administratum Grey</NameEn>
+		<NameZh>中央政务院灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Alaitoc Blue 亚莱托克蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Alaitoc Blue 亚莱托克蓝.jpg</ImageFullPath>
+		<ImageName>AlaitocBlue.jpg</ImageName>
+		<NameEn>Alaitoc Blue</NameEn>
+		<NameZh>亚莱托克蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Balor Brown 波拉尔棕.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Balor Brown 波拉尔棕.jpg</ImageFullPath>
+		<ImageName>BalorBrown.jpg</ImageName>
+		<NameEn>Balor Brown</NameEn>
+		<NameZh>波拉尔棕</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Baneblade Brown 毁灭之刃棕.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Baneblade Brown 毁灭之刃棕.jpg</ImageFullPath>
+		<ImageName>BanebladeBrown.jpg</ImageName>
+		<NameEn>Baneblade Brown</NameEn>
+		<NameZh>毁灭之刃棕</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Bestigor Flesh 巴斯戈肤.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Bestigor Flesh 巴斯戈肤.jpg</ImageFullPath>
+		<ImageName>BestigorFlesh.jpg</ImageName>
+		<NameEn>Bestigor Flesh</NameEn>
+		<NameZh>巴斯戈肤</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Brass Scorpion 蝎黄铜.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Brass Scorpion 蝎黄铜.jpg</ImageFullPath>
+		<ImageName>BrassScorpion.jpg</ImageName>
+		<NameEn>Brass Scorpion</NameEn>
+		<NameZh>蝎黄铜</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Dark Reaper 暗黑撕裂者.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Dark Reaper 暗黑撕裂者.jpg</ImageFullPath>
+		<ImageName>DarkReaper.jpg</ImageName>
+		<NameEn>Dark Reaper</NameEn>
+		<NameZh>暗黑撕裂者</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Doombull Brown 末日牛头人褐.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Doombull Brown 末日牛头人褐.jpg</ImageFullPath>
+		<ImageName>DoombullBrown.jpg</ImageName>
+		<NameEn>Doombull Brown</NameEn>
+		<NameZh>末日牛头人褐</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Elysian Green 艾里西亚绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Elysian Green 艾里西亚绿.jpg</ImageFullPath>
+		<ImageName>ElysianGreen.jpg</ImageName>
+		<NameEn>Elysian Green</NameEn>
+		<NameZh>艾里西亚绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Emperor's Children 帝皇之子.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Emperor's Children 帝皇之子.jpg</ImageFullPath>
+		<ImageName>Emperor'sChildren.jpg</ImageName>
+		<NameEn>Emperor's Children</NameEn>
+		<NameZh>帝皇之子</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Fenrisian Grey 芬里斯灰.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Fenrisian Grey 芬里斯灰.jpg</ImageFullPath>
+		<ImageName>FenrisianGrey.jpg</ImageName>
+		<NameEn>Fenrisian Grey</NameEn>
+		<NameZh>芬里斯灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Fire Dragon Bright 火龙橘.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Fire Dragon Bright 火龙橘.jpg</ImageFullPath>
+		<ImageName>FireDragonBright.jpg</ImageName>
+		<NameEn>Fire Dragon Bright</NameEn>
+		<NameZh>火龙橘</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Genestealer Purple 基因窃取者紫.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Genestealer Purple 基因窃取者紫.jpg</ImageFullPath>
+		<ImageName>GenestealerPurple.jpg</ImageName>
+		<NameEn>Genestealer Purple</NameEn>
+		<NameZh>基因窃取者紫</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Gorthor Brown 戈夫褐.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Gorthor Brown 戈夫褐.jpg</ImageFullPath>
+		<ImageName>GorthorBrown.jpg</ImageName>
+		<NameEn>Gorthor Brown</NameEn>
+		<NameZh>戈夫褐</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Hashut Copper 赫夏红铜.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Hashut Copper 赫夏红铜.jpg</ImageFullPath>
+		<ImageName>HashutCopper.jpg</ImageName>
+		<NameEn>Hashut Copper</NameEn>
+		<NameZh>赫夏红铜</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Hoeth Blue 贺夫蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Hoeth Blue 贺夫蓝.jpg</ImageFullPath>
+		<ImageName>HoethBlue.jpg</ImageName>
+		<NameEn>Hoeth Blue</NameEn>
+		<NameZh>贺夫蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Kabalite Green 卡柏利特绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Kabalite Green 卡柏利特绿.jpg</ImageFullPath>
+		<ImageName>KabaliteGreen.jpg</ImageName>
+		<NameEn>Kabalite Green</NameEn>
+		<NameZh>卡柏利特绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Karak Stone 卡拉克石.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Karak Stone 卡拉克石.jpg</ImageFullPath>
+		<ImageName>KarakStone.jpg</ImageName>
+		<NameEn>Karak Stone</NameEn>
+		<NameZh>卡拉克石</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Loren Forest 洛伦森林绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Loren Forest 洛伦森林绿.jpg</ImageFullPath>
+		<ImageName>LorenForest.jpg</ImageName>
+		<NameEn>Loren Forest</NameEn>
+		<NameZh>洛伦森林绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Lothern Blue 罗森蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Lothern Blue 罗森蓝.jpg</ImageFullPath>
+		<ImageName>LothernBlue.jpg</ImageName>
+		<NameEn>Lothern Blue</NameEn>
+		<NameZh>罗森蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Moot Green 谬特绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Moot Green 谬特绿.jpg</ImageFullPath>
+		<ImageName>MootGreen.jpg</ImageName>
+		<NameEn>Moot Green</NameEn>
+		<NameZh>谬特绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Nurgling Green 乐高灵绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Nurgling Green 乐高灵绿.jpg</ImageFullPath>
+		<ImageName>NurglingGreen.jpg</ImageName>
+		<NameEn>Nurgling Green</NameEn>
+		<NameZh>乐高灵绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Ogryn Camo 食人魔迷彩绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Ogryn Camo 食人魔迷彩绿.jpg</ImageFullPath>
+		<ImageName>OgrynCamo.jpg</ImageName>
+		<NameEn>Ogryn Camo</NameEn>
+		<NameZh>食人魔迷彩绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Pallid Wych Flesh 女巫苍白肤.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Pallid Wych Flesh 女巫苍白肤.jpg</ImageFullPath>
+		<ImageName>PallidWychFlesh.jpg</ImageName>
+		<NameEn>Pallid Wych Flesh</NameEn>
+		<NameZh>女巫苍白肤</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Pink Horror 惊惧妖粉红.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Pink Horror 惊惧妖粉红.jpg</ImageFullPath>
+		<ImageName>PinkHorror.jpg</ImageName>
+		<NameEn>Pink Horror</NameEn>
+		<NameZh>惊惧妖粉红</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Runelord Brass 符文领主黄铜.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Runelord Brass 符文领主黄铜.jpg</ImageFullPath>
+		<ImageName>RunelordBrass.jpg</ImageName>
+		<NameEn>Runelord Brass</NameEn>
+		<NameZh>符文领主黄铜</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Russ Grey 鲁斯灰.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Russ Grey 鲁斯灰.jpg</ImageFullPath>
+		<ImageName>RussGrey.jpg</ImageName>
+		<NameEn>Russ Grey</NameEn>
+		<NameZh>鲁斯灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Skavenblight Dinge 魔鼠荒芜黑.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Skavenblight Dinge 魔鼠荒芜黑.jpg</ImageFullPath>
+		<ImageName>SkavenblightDinge.jpg</ImageName>
+		<NameEn>Skavenblight Dinge</NameEn>
+		<NameZh>魔鼠荒芜黑</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Slaanesh Grey 沙历士灰.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Slaanesh Grey 沙历士灰.jpg</ImageFullPath>
+		<ImageName>SlaaneshGrey.jpg</ImageName>
+		<NameEn>Slaanesh Grey</NameEn>
+		<NameZh>沙历士灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Sotek Green 索特绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Sotek Green 索特绿.jpg</ImageFullPath>
+		<ImageName>SotekGreen.jpg</ImageName>
+		<NameEn>Sotek Green</NameEn>
+		<NameZh>索特绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Squig Orange 球菌橘.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Squig Orange 球菌橘.jpg</ImageFullPath>
+		<ImageName>SquigOrange.jpg</ImageName>
+		<NameEn>Squig Orange</NameEn>
+		<NameZh>球菌橘</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Stormvermin Fur 暴风骇鼠毛皮.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Stormvermin Fur 暴风骇鼠毛皮.jpg</ImageFullPath>
+		<ImageName>StormverminFur.jpg</ImageName>
+		<NameEn>Stormvermin Fur</NameEn>
+		<NameZh>暴风骇鼠毛皮</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Straken Green 史崔坎绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Straken Green 史崔坎绿.jpg</ImageFullPath>
+		<ImageName>StrakenGreen.jpg</ImageName>
+		<NameEn>Straken Green</NameEn>
+		<NameZh>史崔坎绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Sybarite Green 逸乐绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Sybarite Green 逸乐绿.jpg</ImageFullPath>
+		<ImageName>SybariteGreen.jpg</ImageName>
+		<NameEn>Sybarite Green</NameEn>
+		<NameZh>逸乐绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Sycorax Bronze 西考拉克斯青铜.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Sycorax Bronze 西考拉克斯青铜.jpg</ImageFullPath>
+		<ImageName>SycoraxBronze.jpg</ImageName>
+		<NameEn>Sycorax Bronze</NameEn>
+		<NameZh>西考拉克斯青铜</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Tallarn Sand 泰朗沙地.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Tallarn Sand 泰朗沙地.jpg</ImageFullPath>
+		<ImageName>TallarnSand.jpg</ImageName>
+		<NameEn>Tallarn Sand</NameEn>
+		<NameZh>泰朗沙地</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Tau Light Ochre 钛土黄.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Tau Light Ochre 钛土黄.jpg</ImageFullPath>
+		<ImageName>TauLightOchre.jpg</ImageName>
+		<NameEn>Tau Light Ochre</NameEn>
+		<NameZh>钛土黄</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Teclis Blue 泰克里斯蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Teclis Blue 泰克里斯蓝.jpg</ImageFullPath>
+		<ImageName>TeclisBlue.jpg</ImageName>
+		<NameEn>Teclis Blue</NameEn>
+		<NameZh>泰克里斯蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Temple Guard Blue 神殿护卫蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Temple Guard Blue 神殿护卫蓝.jpg</ImageFullPath>
+		<ImageName>TempleGuardBlue.jpg</ImageName>
+		<NameEn>Temple Guard Blue</NameEn>
+		<NameZh>神殿护卫蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Thunderhawk Blue 雷鹰蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Thunderhawk Blue 雷鹰蓝.jpg</ImageFullPath>
+		<ImageName>ThunderhawkBlue.jpg</ImageName>
+		<NameEn>Thunderhawk Blue</NameEn>
+		<NameZh>雷鹰蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Troll Slayer Orange 屠夫橘.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Troll Slayer Orange 屠夫橘.jpg</ImageFullPath>
+		<ImageName>TrollSlayerOrange.jpg</ImageName>
+		<NameEn>Troll Slayer Orange</NameEn>
+		<NameZh>屠夫橘</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Tuskgor Fur 獠牙兽毛.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Tuskgor Fur 獠牙兽毛.jpg</ImageFullPath>
+		<ImageName>TuskgorFur.jpg</ImageName>
+		<NameEn>Tuskgor Fur</NameEn>
+		<NameZh>獠牙兽毛</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Ulthuan Grey 奥苏安灰.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Ulthuan Grey 奥苏安灰.jpg</ImageFullPath>
+		<ImageName>UlthuanGrey.jpg</ImageName>
+		<NameEn>Ulthuan Grey</NameEn>
+		<NameZh>奥苏安灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Ungor Flesh 短角兽人肤.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Ungor Flesh 短角兽人肤.jpg</ImageFullPath>
+		<ImageName>UngorFlesh.jpg</ImageName>
+		<NameEn>Ungor Flesh</NameEn>
+		<NameZh>短角兽人肤</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Warpfiend Grey 异鬼灰.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Warpfiend Grey 异鬼灰.jpg</ImageFullPath>
+		<ImageName>WarpfiendGrey.jpg</ImageName>
+		<NameEn>Warpfiend Grey</NameEn>
+		<NameZh>异鬼灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Warpstone Glow 魔石绿.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Warpstone Glow 魔石绿.jpg</ImageFullPath>
+		<ImageName>WarpstoneGlow.jpg</ImageName>
+		<NameEn>Warpstone Glow</NameEn>
+		<NameZh>魔石绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Wazdakka Red 瓦兹达卡红.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Wazdakka Red 瓦兹达卡红.jpg</ImageFullPath>
+		<ImageName>WazdakkaRed.jpg</ImageName>
+		<NameEn>Wazdakka Red</NameEn>
+		<NameZh>瓦兹达卡红</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>White Scar 圣痕白.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/White Scar 圣痕白.jpg</ImageFullPath>
+		<ImageName>WhiteScar.jpg</ImageName>
+		<NameEn>White Scar</NameEn>
+		<NameZh>圣痕白</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Xereus Purple 异形紫.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Xereus Purple 异形紫.jpg</ImageFullPath>
+		<ImageName>XereusPurple.jpg</ImageName>
+		<NameEn>Xereus Purple</NameEn>
+		<NameZh>异形紫</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Layer</Category>
+		<CategoryNew>Layer others</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Zamesi Desert 萨姆西沙漠黄.jpg</ImageNameCn>
+		<ImageFullPath>/Layer others/Zamesi Desert 萨姆西沙漠黄.jpg</ImageFullPath>
+		<ImageName>ZamesiDesert.jpg</ImageName>
+		<NameEn>Zamesi Desert</NameEn>
+		<NameZh>萨姆西沙漠黄</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Texture</Category>
+		<CategoryNew>Texture</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Armageddon Dust 亚尔玛捷顿沙尘.jpg</ImageNameCn>
+		<ImageFullPath>/Texture/Armageddon Dust 亚尔玛捷顿沙尘.jpg</ImageFullPath>
+		<ImageName>ArmageddonDust.jpg</ImageName>
+		<NameEn>Armageddon Dust </NameEn>
+		<NameZh>亚尔玛捷顿沙尘 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Texture</Category>
+		<CategoryNew>Texture</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Astrogranite 花岗岩灰.jpg</ImageNameCn>
+		<ImageFullPath>/Texture/Astrogranite 花岗岩灰.jpg</ImageFullPath>
+		<ImageName>Astrogranite.jpg</ImageName>
+		<NameEn>Astrogranite </NameEn>
+		<NameZh>花岗岩灰</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Texture</Category>
+		<CategoryNew>Texture</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Blackfire Earth 黑火大地.jpg</ImageNameCn>
+		<ImageFullPath>/Texture/Blackfire Earth 黑火大地.jpg</ImageFullPath>
+		<ImageName>BlackfireEarth.jpg</ImageName>
+		<NameEn>Blackfire Earth</NameEn>
+		<NameZh>黑火大地 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Texture</Category>
+		<CategoryNew>Texture</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Lustrian Undergrowth 拉斯崔恩矮丛绿.jpg</ImageNameCn>
+		<ImageFullPath>/Texture/Lustrian Undergrowth 拉斯崔恩矮丛绿.jpg</ImageFullPath>
+		<ImageName>LustrianUndergrowth.jpg</ImageName>
+		<NameEn>Lustrian Undergrowth</NameEn>
+		<NameZh>拉斯崔恩矮丛绿</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Texture</Category>
+		<CategoryNew>Texture</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Mourn Mountain Snow 悲鸣山白雪.jpg</ImageNameCn>
+		<ImageFullPath>/Texture/Mourn Mountain Snow 悲鸣山白雪.jpg</ImageFullPath>
+		<ImageName>MournMountainSnow.jpg</ImageName>
+		<NameEn>Mourn Mountain Snow</NameEn>
+		<NameZh>悲鸣山白雪 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Texture</Category>
+		<CategoryNew>Texture</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Stirland Mud 斯迪尔兰褐.jpg</ImageNameCn>
+		<ImageFullPath>/Texture/Stirland Mud 斯迪尔兰褐.jpg</ImageFullPath>
+		<ImageName>StirlandMud.jpg</ImageName>
+		<NameEn>Stirland Mud </NameEn>
+		<NameZh>斯迪尔兰褐 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Technical</Category>
+		<CategoryNew>Technical</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Agrellan Earth.jpg</ImageNameCn>
+		<ImageFullPath>/Technical/Agrellan Earth.jpg</ImageFullPath>
+		<ImageName>AgrellanEarth.jpg</ImageName>
+		<NameEn>Agrellan Earth</NameEn>
+		<NameZh>-</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Technical</Category>
+		<CategoryNew>Technical</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Ardcoat 亮光保护漆.jpg</ImageNameCn>
+		<ImageFullPath>/Technical/Ardcoat 亮光保护漆.jpg</ImageFullPath>
+		<ImageName>Ardcoat.jpg</ImageName>
+		<NameEn>Ardcoat</NameEn>
+		<NameZh>亮光保护漆 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Technical</Category>
+		<CategoryNew>Technical</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Blood for the Blood God.jpg</ImageNameCn>
+		<ImageFullPath>/Technical/Blood for the Blood God.jpg</ImageFullPath>
+		<ImageName>BloodfortheBloodGod.jpg</ImageName>
+		<NameEn>Blood for the Blood God</NameEn>
+		<NameZh>-</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Technical</Category>
+		<CategoryNew>Technical</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Imperial Primer 帝国主色.jpg</ImageNameCn>
+		<ImageFullPath>/Technical/Imperial Primer 帝国主色.jpg</ImageFullPath>
+		<ImageName>ImperialPrimer.jpg</ImageName>
+		<NameEn>Imperial Primer</NameEn>
+		<NameZh>帝国主色 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Technical</Category>
+		<CategoryNew>Technical</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Lahmian Medium 缓干剂.jpg</ImageNameCn>
+		<ImageFullPath>/Technical/Lahmian Medium 缓干剂.jpg</ImageFullPath>
+		<ImageName>LahmianMedium.jpg</ImageName>
+		<NameEn>Lahmian Medium</NameEn>
+		<NameZh>缓干剂 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Technical</Category>
+		<CategoryNew>Technical</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Liquid Green Stuff 液态补土.jpg</ImageNameCn>
+		<ImageFullPath>/Technical/Liquid Green Stuff 液态补土.jpg</ImageFullPath>
+		<ImageName>LiquidGreenStuff.jpg</ImageName>
+		<NameEn>Liquid Green Stuff</NameEn>
+		<NameZh>液态补土 </NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Technical</Category>
+		<CategoryNew>Technical</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Nihilakh Oxide.jpg</ImageNameCn>
+		<ImageFullPath>/Technical/Nihilakh Oxide.jpg</ImageFullPath>
+		<ImageName>NihilakhOxide.jpg</ImageName>
+		<NameEn>Nihilakh Oxide</NameEn>
+		<NameZh>-</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Technical</Category>
+		<CategoryNew>Technical</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Typhus Corrosion.jpg</ImageNameCn>
+		<ImageFullPath>/Technical/Typhus Corrosion.jpg</ImageFullPath>
+		<ImageName>TyphusCorrosion.jpg</ImageName>
+		<NameEn>Typhus Corrosion</NameEn>
+		<NameZh>-</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Glaze</Category>
+		<CategoryNew>Glaze</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Bloodletter 血魔红.jpg</ImageNameCn>
+		<ImageFullPath>/Glaze/Bloodletter 血魔红.jpg</ImageFullPath>
+		<ImageName>Bloodletter.jpg</ImageName>
+		<NameEn>Bloodletter</NameEn>
+		<NameZh>血魔红</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Glaze</Category>
+		<CategoryNew>Glaze</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Guilliman Blue 古里曼蓝.jpg</ImageNameCn>
+		<ImageFullPath>/Glaze/Guilliman Blue 古里曼蓝.jpg</ImageFullPath>
+		<ImageName>GuillimanBlue.jpg</ImageName>
+		<NameEn>Guilliman Blue</NameEn>
+		<NameZh>古里曼蓝</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Glaze</Category>
+		<CategoryNew>Glaze</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Lamenters Yellow 恸哭者黄.jpg</ImageNameCn>
+		<ImageFullPath>/Glaze/Lamenters Yellow 恸哭者黄.jpg</ImageFullPath>
+		<ImageName>LamentersYellow.jpg</ImageName>
+		<NameEn>Lamenters Yellow</NameEn>
+		<NameZh>恸哭者黄</NameZh>
+		<Price>20</Price>
+	</Row>
+	<Row>
+		<Category>Citadel Glaze</Category>
+		<CategoryNew>Glaze</CategoryNew>
+		<IncludeSetName>-</IncludeSetName>
+		<ImageNameCn>Waywatcher Green 尖哨绿.jpg</ImageNameCn>
+		<ImageFullPath>/Glaze/Waywatcher Green 尖哨绿.jpg</ImageFullPath>
+		<ImageName>WaywatcherGreen.jpg</ImageName>
+		<NameEn>Waywatcher Green</NameEn>
+		<NameZh>尖哨绿</NameZh>
+		<Price>20</Price>
+	</Row>
+</Root>
